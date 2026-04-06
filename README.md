@@ -26,7 +26,7 @@ Built with a sleek, custom "Fintech" design system, it features full dark/light 
 
 ---
 
-## 🛠 Our Approach & Technical Decisions
+## 🛠 Approach & Technical Decisions
 
 ### 1. Framework & Build Tooling
 I selected **Vite** with **React (TypeScript)**. Vite provides an incredibly fast developer experience with instant HMR, while TypeScript enforces strict typing constraints across data interfaces (Transactions, Summaries) to eliminate runtime bugs. 
