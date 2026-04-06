@@ -9,7 +9,6 @@ import {
   PieChart,
   Pie,
   Cell,
-  Legend,
 } from 'recharts';
 import type { DailyBalance, CategoryBreakdown } from '../types';
 import { formatCurrency } from '../utils/finance';
